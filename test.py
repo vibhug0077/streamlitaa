@@ -1,2 +1,1 @@
-sdcscsdc
-asksajabsxlhasxlasbxabshx
+import numpy as np
